@@ -6,3 +6,13 @@ Implementation of K-means algorithm using a toy dataset. It is an unsupervised a
 4. This mean becomes the centroid for the next iteration. After performing this for a given number of iterations until convergence, all those points corresponding to centroid 1 are assigned as belonging to Class-1 and all those points corresponding to centroid 2 are assigned as belonging to Class-2 and so on.
 
 The 1st two points are grouped as 'Cluster assignment step' and the next two points, as 'Move centroid step'. Results are also shown below to illustrate how all the data points in the training data set are categorized before and after the clustering algorithm.
+
+Results:
+===========
+Before Clustering:
+
+![1](https://user-images.githubusercontent.com/30439795/41323545-994c9c88-6e74-11e8-986e-c2f8c615daf0.png)
+
+After Clustering:
+
+![2]()
